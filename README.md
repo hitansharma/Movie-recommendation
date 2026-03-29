@@ -119,6 +119,7 @@ movie-recommender/
 │
 └── code.py       # Main script with movie database and recommendation logic
 └── README.md       # Project documentation
+```
 
 
-
+```
