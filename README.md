@@ -30,8 +30,7 @@ GitHub: https://github.com/hitansharma
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/hitansharma/Movie-recommendation.git
 ```
 
 Or simply download `code.py` directly.
