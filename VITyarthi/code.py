@@ -56,7 +56,7 @@ def main():
 
     recommendations = get_recommendations(preferred, min_rating)
 
-    print(f"\n🍿 Top Recommendations for genres: {', '.join(preferred)}")
+    print(f"\n Top Recommendations for genres: {', '.join(preferred)}")
     print("-" * 40)
 
     if not recommendations:
@@ -64,7 +64,7 @@ def main():
     else:
         for i, (title, rating, matches, genres) in enumerate(recommendations, 1):
             print(f"{i}. {title}")
-            print(f"   ⭐ Rating: {rating} | Genres: {', '.join(genres)}")
+            print(f"  Rating: {rating} | Genres: {', '.join(genres)}")
 
 if __name__ == "__main__":
     main()
