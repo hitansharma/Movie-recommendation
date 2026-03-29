@@ -6,7 +6,7 @@ A simple Python-based movie recommendation system that suggests movies based on 
 
 Hitansh Sharma
 
-GitHub:
+GitHub: https://github.com/hitansharma
 
 ## Features
 
